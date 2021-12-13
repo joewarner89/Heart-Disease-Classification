@@ -10,7 +10,7 @@ We will approach the problem with the following machine learning modelling frame
 More specifically, we'll look at the following topics.
 Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.
 
-Model training - create model(s) to learn to predict a target variable based on other variables.
+> Model training - create model(s) to learn to predict a target variable based on other variables.
 Model evaluation - evaluating a models predictions using problem-specific evaluation metrics.
 Model comparison - comparing several different models to find the best one.
 Model fine-tuning - once we've found a good model, how can we improve it?
